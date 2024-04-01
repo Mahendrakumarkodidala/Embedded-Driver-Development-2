@@ -1,0 +1,12 @@
+../Core/Src/main_app.c:35:6:printmsg	1
+../Core/Src/main_app.c:51:5:main	1
+../Core/Src/main_app.c:71:6:SystemClock_Config_HSE	7
+../Core/Src/main_app.c:156:6:RTC_Init	2
+../Core/Src/main_app.c:174:7:RTC_CalendarConfig	3
+../Core/Src/main_app.c:205:6:GPIO_Init	1
+../Core/Src/main_app.c:234:6:UART2_Init	2
+../Core/Src/main_app.c:252:7:getDayofweek	1
+../Core/Src/main_app.c:264:7:HAL_GPIO_EXTI_Callback	1
+../Core/Src/main_app.c:286:8:RTC_AlarmConfig	2
+../Core/Src/main_app.c:312:6:HAL_RTC_AlarmAEventCallback	1
+../Core/Src/main_app.c:332:6:Error_handler	1

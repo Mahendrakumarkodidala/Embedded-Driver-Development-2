@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;PLL_SYSCLK_HSE/PLL_SYSCLK.ioc&apos; to &apos;PLL_SYSCLK_HSE.ioc&apos;" description="Rename resource &apos;PLL_SYSCLK.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="PLL_SYSCLK.ioc" name="PLL_SYSCLK_HSE.ioc" stamp="1710387892791" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;PLL_SYSCLK_HSE/PLL_SYSCLK.launch&apos; to &apos;PLL_SYSCLK_HSE.launch&apos;" description="Rename resource &apos;PLL_SYSCLK.launch&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="PLL_SYSCLK.launch" name="PLL_SYSCLK_HSE.launch" stamp="1710387919718" updateReferences="true"/>
+</session>

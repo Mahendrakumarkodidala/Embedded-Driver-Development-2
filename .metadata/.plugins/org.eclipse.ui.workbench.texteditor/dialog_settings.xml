@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="TIM5"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="Tim6"/>
+			<item value="Tim3"/>
+			<item value="HAL_TIM_ENABLE"/>
+			<item value="HAL_TIM"/>
+			<item value="HAL_TIM_Base_ "/>
+			<item value="GPIO_mode_define"/>
+			<item value="HAL_TIM_Base_In"/>
+			<item value="RCC_PLL_Config"/>
+			<item value="RCC_PLL_Config "/>
+			<item value="RCC_HSI_Config"/>
+			<item value="RCC_AHB_Clock_Source"/>
+			<item value="RCC_HSE_Config "/>
+			<item value="RCC_Oscillator_Type"/>
+			<item value="UART_Parity"/>
+			<item value="UART_Stop_Bits"/>
+		</list>
+		<list key="replacehistory">
+			<item value="TIM5"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1304"/>
+		<item key="DIALOG_Y_ORIGIN" value="133"/>
+		<item key="DIALOG_WIDTH" value="364"/>
+		<item key="DIALOG_HEIGHT" value="370"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

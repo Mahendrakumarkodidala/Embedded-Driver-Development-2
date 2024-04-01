@@ -1,0 +1,10 @@
+../Core/Src/main_app.c:32:6:printmsg	96	static
+../Core/Src/main_app.c:49:5:main	8	static
+../Core/Src/main_app.c:85:6:SystemClock_Config_HSE	96	static
+../Core/Src/main_app.c:170:6:RTC_Init	8	static
+../Core/Src/main_app.c:187:7:RTC_CalendarConfig	32	static
+../Core/Src/main_app.c:219:6:GPIO_Init	56	static
+../Core/Src/main_app.c:242:6:UART2_Init	8	static
+../Core/Src/main_app.c:260:7:getDayofweek	56	static
+../Core/Src/main_app.c:272:7:HAL_GPIO_EXTI_Callback	64	static
+../Core/Src/main_app.c:288:6:Error_handler	4	static

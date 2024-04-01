@@ -1,0 +1,7 @@
+../Core/Src/main_app.c:28:5:main	1
+../Core/Src/main_app.c:52:6:SystemClock_Config_HSE	7
+../Core/Src/main_app.c:134:6:GPIO_AnalogConfig	1
+../Core/Src/main_app.c:160:6:GPIO_Init	1
+../Core/Src/main_app.c:183:6:UART2_Init	2
+../Core/Src/main_app.c:202:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main_app.c:211:6:Error_handler	1

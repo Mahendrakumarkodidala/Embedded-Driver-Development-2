@@ -1,0 +1,10 @@
+12:28:49 **** Incremental Build of configuration Debug for project Current_Measurement_Stop_Mode ****
+make all 
+arm-none-eabi-size  Current_Measurement_Stop_Mode.elf 
+   text	   data	    bss	    dec	    hex	filename
+   3656	      8	   1064	   4728	   1278	Current_Measurement_Stop_Mode.elf
+Finished building: default.size.stdout
+ 
+
+12:28:49 Build Finished. 0 errors, 0 warnings. (took 558ms)
+
